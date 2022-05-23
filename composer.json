@@ -1,0 +1,21 @@
+{
+    "name": "xp130760/test01",
+    "description": "PPPPP",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xp130760\\Test01\\": "stc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3163290953",
+            "email": "3163290953@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
